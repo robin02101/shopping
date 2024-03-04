@@ -9,13 +9,13 @@ export default{
       }
     },
     mounted(){
-              //fecth 拿去資料 data宣告變數
+            
     
       
   
     },
     computed:{
-              //我的搜尋框的value有變動的時候可以進行篩選 只要有文字符合就會出現
+              
        
   
     },
